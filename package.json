@@ -1,0 +1,28 @@
+{
+  "name": "quays-bistro-grill",
+  "version": "1.0.0",
+  "description": "A website for the popular Quays Bistro Grill in Derry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Melaugh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolarLunix/QuaysBistroGrill.git"
+  },
+  "keywords": [
+    "Bistro",
+    "Grill",
+    "Website"
+  ],
+  "bugs": {
+    "url": "https://github.com/SolarLunix/QuaysBistroGrill/issues"
+  },
+  "homepage": "https://github.com/SolarLunix/QuaysBistroGrill#readme"
+}
